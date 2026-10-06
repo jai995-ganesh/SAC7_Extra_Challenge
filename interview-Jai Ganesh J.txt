@@ -1,0 +1,52 @@
+1. Tell me about yourself.
+
+Good morning. My name is Jai Ganesh J  I am interested in starting my career as a Java Full Stack Developer.
+
+During my academic and project work, I developed an interest in both backend and frontend development. I have been learning Java, Spring Boot, REST APIs, SQL, HTML, CSS, JavaScript, and React. I particularly enjoy backend development because I like building APIs, working with databases, and solving programming problems.
+
+I have also worked on full-stack projects where I connected the frontend with backend APIs and databases. These projects helped me improve my problem-solving, debugging, teamwork, and ability to learn new technologies.
+
+I consider myself a quick learner, responsible, and adaptable person. I am looking for an opportunity where I can apply my technical knowledge to real-world applications, learn from experienced developers, and grow as a Java Full Stack Developer while contributing to the company's goals.
+2. Which 2–3 of your past experiences are the most relevant for this position? How?
+
+Three experiences are particularly relevant to a Java Full Stack Developer position.
+
+First, my full-stack project experience is highly relevant because I worked on connecting frontend applications with backend APIs and databases. This helped me understand how different layers of an application communicate with each other.
+
+Second, my experience learning and working with Java and backend concepts is important for this role. I have practiced object-oriented programming, exception handling, collections, SQL, REST APIs, and Spring Boot concepts. This has helped me develop my backend problem-solving skills.
+
+Third, my experience working on projects has improved my debugging and adaptability. Whenever I faced an error, I tried to understand the root cause, researched possible solutions, tested them, and improved the implementation.
+
+These experiences are relevant because a Java Full Stack Developer needs both technical knowledge and the ability to solve problems, communicate with a team, and continuously learn. I am excited to develop these skills further in a professional environment.
+
+3. Client doesn't understand your technical explanation. What do you do?
+If a client had difficulty understanding my explanation, I would first listen carefully and understand which part is confusing to them. I would not continue using technical terminology if it is making the situation more difficult.
+
+For example, if I were explaining why an application feature was delayed because of a backend API issue, instead of saying, "There is an API integration problem between the service and database," I could explain it more simply by saying, "The part of the application that connects the screen to the stored information is currently having an issue, so we are fixing that connection."
+
+I would use simple language, real-world examples, diagrams, or a short demonstration if necessary. I would then ask the client to confirm whether the explanation is clear and give them an opportunity to ask questions.
+
+As a result, the client would have a clear understanding of the situation without needing technical knowledge, and we could communicate more effectively and maintain their confidence in the development team.
+
+4. Describe how HTML and CSS are used in web development.
+
+HTML and CSS work together to create the user interface of a web application.
+
+HTML, or HyperText Markup Language, provides the structure and content of a webpage. For example, we use HTML elements such as headings, paragraphs, buttons, forms, tables, and input fields to define what appears on the page.
+
+CSS, or Cascading Style Sheets, is used to control the presentation and appearance of those HTML elements. It can change colors, fonts, spacing, borders, layouts, and make a webpage responsive for different screen sizes.
+
+A simple way to understand the difference is to compare a webpage with a house. HTML is like the structure of the house, such as the rooms, doors, and windows. CSS is like the paint, furniture, spacing, and overall design.
+
+For example, I could create a login form using HTML with username, password, and a login button, and then use CSS to arrange the form, add spacing, style the button, and make the form look professional.
+
+In a Java Full Stack application, HTML and CSS can form part of the frontend, while Java and Spring Boot can handle the backend logic and REST APIs.
+
+5. Tell me about a time you made a decision and then changed your mind.
+During one of my full-stack projects, I initially decided to implement a particular feature directly on the frontend because I thought it would be simpler and faster.
+
+After testing the feature, I realized that this approach could make the application harder to maintain and could also create problems if the same data needed to be used in different parts of the application.
+
+My responsibility was to make the feature reliable and easier to maintain, so I reconsidered my original decision. I discussed the issue with my team, reviewed the requirements, and changed the approach. I moved the main business logic to the backend API and allowed the frontend to communicate with the API to get the required data.
+
+As a result, the feature became more organized and easier to maintain. This experience taught me that it is important to evaluate a decision based on the actual results and be willing to change my approach when I find a better solution.
